@@ -30,11 +30,11 @@ Add darkmoss scheme in the schemes directory.
 
     git clone https://github.com/avanzzzi/base16-darkmoss-scheme.git schemes/darkmoss
 
-Add any additional template you may find useful, for instance, ``airline``.
+Add any additional template you may find useful, for instance, `airline`_.
 
 ::
 
-    git clone https://github.com/jfelchner/base16-vim-airline-template templates/airline
+    git clone https://github.com/jfelchner/base16-vim-airline-template.git templates/airline
 
 Build the scheme for all templates:
 
@@ -46,3 +46,4 @@ An ``output`` directory will be created with darkmoss avaiable for all base16 te
 
 .. _Base16: https://github.com/chriskempson/base16
 .. _Python Builder: https://github.com/InspectorMustache/base16-builder-python
+.. _airline: https://github.com/jfelchner/base16-vim-airline-template
