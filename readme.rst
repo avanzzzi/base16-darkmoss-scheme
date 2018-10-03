@@ -7,16 +7,16 @@ A dark color scheme for `Base16`_.
 
 To give it a try, use one of the builders avaiable for base16.
 
-Example using `Python_Builder`_.
+Example using `Python Builder`_.
 --------------------------------
 
-Install python builder:
+Install base16 python builder:
 
 ::
 
     pip install pybase16-builder
 
-Create a directory to serve as working directory for base16-builder and get all oficial schemes and templates.
+Create a directory to serve as working directory for base16-builder and get all official schemes and templates.
 
 ::
 
@@ -45,4 +45,4 @@ Build the scheme for all templates:
 An ``output`` directory will be created with darkmoss avaiable for all base16 templates.
 
 .. _Base16: https://github.com/chriskempson/base16
-.. _Python_Builder: https://github.com/InspectorMustache/base16-builder-python
+.. _Python Builder: https://github.com/InspectorMustache/base16-builder-python
